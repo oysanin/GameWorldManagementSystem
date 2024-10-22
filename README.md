@@ -1,1 +1,1 @@
-Launch .sln file
+Launch .cproj file
